@@ -1,46 +1,54 @@
-# 👋 ¡Hola, soy Adrián Gutiérrez!
+<h1 align="center">¡Hola, soy Adrián Gutiérrez! 👋</h1>
 
-<div align="center">
-
-🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-💻 Apasionado por la tecnología, la programación limpia y el aprendizaje continuo.  
-🚀 Buscando crecer como desarrollador y aportar valor en proyectos innovadores.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/adri%C3%A1n-guti%C3%A9rrez-fern%C3%A1ndez-?trk=people-guest_people_search-card)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian.gutierrez.fdez@gmail.com)
-
-</div>
+<p align="center">
+  🎓 <b>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</b><br>
+  💻 Apasionado por la tecnología, la programación y el aprendizaje continuo.<br>
+  🚀 Buscando crecer como desarrollador y aportar valor en proyectos innovadores.
+</p>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
-#### **Lenguajes**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+### 🗣️ Lenguajes de Programación
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
 
-#### **Frontend & Web**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Frontend & Web
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+</p>
 
-#### **Backend & Runtime**
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### ⚙️ Backend & Servidores
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
 
 ---
 
-### 🌍 Idiomas
-* 🇪🇸 **Español:** Nativo  
-* 🇬🇧 **English:** Intermedio / Profesional
+## 🌍 Idiomas
+* 🇪🇸 **Español:** Nativo
+* 🇬🇧 **English:** Intermedio / En constante mejora
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianGF&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGF&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianGF&show_icons=true&theme=github_dark&hide_border=true" alt="AdrianGF's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGF&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 📫 Contacto
+
+* 💼 **LinkedIn:** [Conecta conmigo](https://es.linkedin.com/in/adri%C3%A1n-guti%C3%A9rrez-fern%C3%A1ndez-?trk=people-guest_people_search-card)
+* 📧 **Email:** adrian.gutierrez.fdez@gmail.com
