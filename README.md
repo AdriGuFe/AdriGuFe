@@ -39,14 +39,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![AdrianGF's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianGF&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGF&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Contacto
 
 * 💼 **LinkedIn:** [Conecta conmigo](https://es.linkedin.com/in/adri%C3%A1n-guti%C3%A9rrez-fern%C3%A1ndez-?trk=people-guest_people_search-card)
