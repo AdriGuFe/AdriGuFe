@@ -41,10 +41,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianGF&show_icons=true&theme=github_dark&hide_border=true" alt="AdrianGF's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGF&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
-</p>
+![AdrianGF's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianGF&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGF&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
