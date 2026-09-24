@@ -37,14 +37,6 @@
 
 ---
 
-## 🏆 Mis Logros en GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdrianGF&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🌍 Idiomas
 * 🇪🇸 **Español:** Nativo
 * 🇬🇧 **English:** Intermedio / En constante mejora
