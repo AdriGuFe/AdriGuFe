@@ -1,6 +1,10 @@
 <h1 align="center">¡Hola, soy Adrián Gutiérrez! 👋</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdrianGF&color=blue&style=for-the-badge" alt="Visitor Count" />
+</p>
+
+<p align="center">
   🎓 <b>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</b><br>
   💻 Apasionado por la tecnología, la programación y el aprendizaje continuo.<br>
   🚀 Buscando crecer como desarrollador y aportar valor en proyectos innovadores.
@@ -33,13 +37,34 @@
 
 ---
 
+## 🏆 Mis Logros en GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdrianGF&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 🌍 Idiomas
 * 🇪🇸 **Español:** Nativo
 * 🇬🇧 **English:** Intermedio / En constante mejora
 
 ---
 
+## 🎯 Sobre mí y Objetivos
+
+* 🌱 Actualmente estoy ampliando mis conocimientos en desarrollo multiplataforma y arquitecturas web modernas.
+* 🎯 Mi meta a corto plazo es dominar TypeScript, Angular y Kotlin para crear experiencias completas tanto en web como en móvil.
+
+---
+
 ## 📫 Contacto
 
-* 💼 **LinkedIn:** [Conecta conmigo](https://es.linkedin.com/in/adri%C3%A1n-guti%C3%A9rrez-fern%C3%A1ndez-?trk=people-guest_people_search-card)
-* 📧 **Email:** adrian.gutierrez.fdez@gmail.com
+<p>
+  <a href="https://es.linkedin.com/in/adri%C3%A1n-guti%C3%A9rrez-fern%C3%A1ndez-?trk=people-guest_people_search-card" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adrian.gutierrez.fdez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
